@@ -25,11 +25,18 @@ O(n²)
 # 18: Average Case
 
 # Insertion sort exercise 2:
-git
 Series:  [7,3,5,8,2,9,4,15,6]
+
+
 1st step [3,7,5,8,2,9,4,15,6]
+
+
 2nd step [3,5,7,8,2,9,4,15,6]
+
+
 3rd step [2,3,5,7,8,9,4,15,6]
+
+
 4th step [2,3,4,5,7,8,9,15,6]
 
 Further steps:
